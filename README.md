@@ -1,10 +1,10 @@
-#Umbrella
+# Umbrella
 
-##Building
+## Building
 
-``bash
-git clone https://github.com/RAGHAV2405AR/Umbrella
-cd Umbrella
-npm install || npm install --force
-npm run dev
+``
+git clone https://github.com/RAGHAV2405AR/Umbrella\n
+cd Umbrella\n
+npm install || npm install --force\n
+npm run dev\n
 ``
